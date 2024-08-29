@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+}
+.abuelo{
+    background-color: red;
+    padding: 20px;
+    width: 400px;
+    border-radius: 30px;
+    margin: 30px;
+}
+.padre{
+    background-color: rgb(255, 166, 0);
+    padding: 20px;
+    border-radius: 30px;
+    margin: 30px;
+}
+.hijo{
+    background-color: rgb(16, 235, 70);
+    padding: 20px;
+    border-radius: 30px;
+    margin: 20px;
+}
+.nieto{
+    background-color: rgb(0, 255, 255);
+    padding: 20px;
+    border-radius: 30px;
+}
+.bisnieto{
+    background-color: rgb(18, 49, 223);
+    padding: 20px;
+    border-radius: 30px;
+}
+.cria{
+    background-color: rgb(234, 0, 255);
+    padding: 20px;
+    border-radius: 30px;
+}
+.enjendro{
+    background-color: rgb(255, 0, 170);
+    padding: 20px;
+    border-radius: 30px;
+}
